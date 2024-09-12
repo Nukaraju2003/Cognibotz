@@ -1,0 +1,21 @@
+Required fields
+
+Count Current cars stock
+Model
+Month
+forecast of car sale for next 3 months
+
+stages
+
+Total cars
+Make
+Make model
+delear location
+new or used
+Millage and engine and colour
+
+Power bi Dashbors
+
+Infrastructure Design and cost
+Data pipeline setup
+Select best modeling and tunning
